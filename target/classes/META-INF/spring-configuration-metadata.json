@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "my.config",
+      "type": "cn.sawyer.starter.MyProperties",
+      "sourceType": "cn.sawyer.starter.MyProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "my.config.email",
+      "type": "java.lang.String",
+      "sourceType": "cn.sawyer.starter.MyProperties"
+    },
+    {
+      "name": "my.config.name",
+      "type": "java.lang.String",
+      "sourceType": "cn.sawyer.starter.MyProperties"
+    }
+  ],
+  "hints": []
+}
